@@ -6,7 +6,6 @@
 //   xcp      — sparse-aware file copy  (called by customize.sh)
 // ============================================================
 
-#![feature(let_chains)]
 
 use anyhow::Result;
 use log::info;
